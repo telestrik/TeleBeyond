@@ -108,7 +108,8 @@ local function action_by_id(extra, success, result)  -- /info <ID> function
   local um_hash = 'msgs:'..result.peer_id..':'..extra.chat2
   user_info_msgs = tonumber(redis:get(um_hash) or 0)
   text = text..'تعداد پیام های کاربر : '..user_info_msgs..'\n\n'
-  text = text..'@BeyondTeam'
+  text = text..'ID SUDO: @zZz_ADMIN_SHOMARE_MAJAZEE_zZz
+#ID Channel: @iD_SHOMARE_MAJaZE_iD''
   send_msg(extra.receiver, text, ok_cb, true)
   else
   send_msg(extra.receiver, 'id not found.\nuse : /info @username', ok_cb, false)
