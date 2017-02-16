@@ -76,12 +76,10 @@ if msg.to.type == 'channel' and is_momod(msg) then
 /helpfun
 نمایش دستورات سرگرمی ربات
 
-***برای سفارش به ربات پیام رسان زیر مراجعه کنید... 
-با تشکر
-@SoLiD021Pv_Bot
+#ID SUDO: @zZz_ADMIN_SHOMARE_MAJAZEE_zZz
 🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹
 -•-•-•-•-•-•-•-•-•-•-•-•-•-•-
-Team Channel : @BeyondTeam ]]
+Team Channel : @iD_SHOMARE_MAJaZE_iD ]]
 end
 end
 return {
