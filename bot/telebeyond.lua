@@ -275,6 +275,21 @@ function create_config( )
     "kickme",
     "onservice",
     "id"
+"bing",	
+"linkpv",	 
+"lock_badw",	
+"lock_chat", 
+"lockshare",		
+"lock_forward",	 
+"lock_Fosh",	
+"lock_fwd",
+"lock_gif",
+"lock_join",
+"aparat",
+"lock_link",
+"lock_share",
+"lockfwd",
+
     },
     sudo_users = {157059515},--ایدی خودتون رو اینجا بزارید
     solid = {157059515},--ایدی خودتون رو اینجا بزارید
